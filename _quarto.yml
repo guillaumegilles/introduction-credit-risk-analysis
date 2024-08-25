@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Introduction to Credit Risk"
@@ -11,13 +12,10 @@ book:
     - summary.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: assets/references.bib
 
 format:
   html:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
-
