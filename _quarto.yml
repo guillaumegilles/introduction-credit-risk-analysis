@@ -9,7 +9,6 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
     - references.qmd
 
 bibliography: assets/references.bib
@@ -17,5 +16,3 @@ bibliography: assets/references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
