@@ -1,43 +1,48 @@
----
-title: Syllabus du cours Analyse financière et diagnostic
----
+# Syllabus {.unnumbered}
 
-## ANALYSE FINANCIÈRE ET DIAGNOSTIC
+[Master of Science Manager Financier. Banque & Assurance](https://www.inseec.com/program/msc-manager-financier-banque-assurance/) :  Analyse Financière & Diagnostic
 
-1. Réaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).
-2. Utiliser les outils de collecte et d’analyse de l’information financière (Bloomberg...).
-3. Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.
-4. Découvrir les différences entre les normes comptables françaises, les normes comptables internationales (IFRS) et les normes anglo-saxonnes (US GAAP).
-
-## Résumé du cours : objectifs pédagogiques et professionnels
+## Objectifs pédagogiques et professionnels
 
 > Utiliser les outils de collecte et d’analyse de l’information financière.
 > Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.  
 > Réaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).
 
+M2 Banques d’Affaires & Ingénierie Financière : Diagnostic Stratégique et Décision
+
+> Approfondir l’analyse financière par l’approche bancaire réseau.
+> Connaitre le patrimoine de l’entreprise (bilan) et son cycle d’exploitation.
+> Faire une lecture « commerciale » de la liasse fiscale et établir un plan de financement prévisionnel.
+
 ## Connaissances et compétences RNCP visées
 
-- 4.14 Optimiser la communication financière de l’entreprise en utilisant les leviers comptables et fiscaux à sa disposition ;
-- 4.15 Utiliser les canaux d’informations financières publics à disposition en maîtrisant le rating et les actualités marché ;
+- 2.6 Appliquer les bases juridiques indispensables au bon fonctionnement d’une société et contrôler le respect des procédures (Diagnostic Stratégique et Décision)
+- 4.14 Optimiser la communication financière de l’entreprise en utilisant les leviers comptables et fiscaux à sa disposition (Analyse Financière & Diagnostic) ;
+- 4.15 Utiliser les canaux d’informations financières publics à disposition en maîtrisant le rating et les actualités marché (Analyse Financière & Diagnostic) ;
 - 4.16 Appliquer les normes comptables et financières internationales (USGAP, IFRS) afin d’accompagner l’entreprise dans sa gestion et le déploiement de sa stratégie à l’international.
+- 4.18 Coordonner et animer une équipe dans le cadre d’un projet en (Diagnostic Stratégique et Décision) :
+  - Planifiant les échéances
+  - Répartissant, hiérarchisant et priorisant les tâches suivant l’évolution du projet
+  - Réalisant un reporting
 
 ## Plan de cours
 
-| Date             | Contenu de la séance                                                        | Type de cours                         | Travail préparatoire                                                                                                                                         |
-| ---------------- | --------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1re demi-journée | découvrir la Banque de France et sa cotation                                | cours magistral                       | Lecture: [Guide référence](https://www.banque-france.fr/fr/system/files/2023-08/Banque%20de%20France%20%E2%80%93%20Entreprises_guide-fiben-ref-cotation.pdf) |
-| 2e demi-journée  | introduction sur les comptes consolidés et l'analyse financière             | cours magistral                       |                                                                                                                                                              |
-| 3e demi-journée  | analyse du compte de résultat + CC sur les demi-journées 1 et 2             | cours magistral et exercice en groupe |                                                                                                                                                              |
-| 4e demi-journée  | analyse du bilan                                                            | cours magistral et exercice en groupe |                                                                                                                                                              |
-| 5e demi-journée  | analyse du tableau des flux de trésorerie + CC sur les demi-journées 3 et 4 | cours magistral et exercice en groupe |                                                                                                                                                              |
-| 6e demi-journée  | examen final sur un cas pratique                                            | examen individuel                     |                                                                                                                                                              |
+| Date        | Contenu de la séance                                | Type de cours      | Travail préparatoire |
+| :---------: | --------------------------------------------------- | ------------------ | -------------------- |
+| **Jour #1** | 1. Découvrir la Banque de France… <br> - Stratégie Monétaire <br> - Stabilité Financière <br> - Service à l’économie <br> 2. …et sa cotation <br> - Définition et objectifs de la cotation BdF <br> - Liens avec la stabilité financière <br> - Comment est-ell gérer par les banque privées.   | Cours magistral | Par groupes de 3-4 personnes, préparation d’un oral de 5 minutes sur la cotation Banque de France dans les banques privées. |
+| **Jour #2** | QCM sur les éléments de la 1re journée <br> 1. Introduction sur les comptes consolidés <br> - Que sont les comptes consolidés <br> - Normes françaises/ IFRS <br> 2. Analyse critique du bilan et des performances <br> - Compte de résultat <br> - Solvabilité <br> -  Autonomie financière | Cours magistral | Revoir les fondamentaux de la comptabilité |
+| **Jour #3** | QCM sur les éléments de la 2e journée <br> 1. Le tableau des flux de trésorerie <br> 2. Examen final | Cours magistral | Révisions |
+
 
 ## Bibliographie indicative
 
 - [Vernimmen](https://www.vernimmen.net/Vernimmen/Qu_est_ce_que_le_vernimmen.php)
 - [La Lettre Vernimmen.net](https://www.vernimmen.net/Lire/Lettre_Vernimmen.php) (_newsletter mensuelle_)
 
-## Évaluation du module
+## Évaluation 
 
-1. CC - QCM : 30 % de la note finale ;
-2. Examen final - cas pratique : 70 % de la note finale.
+| Types d’évaluation | Description                       | $%$ de la note finale |
+| ------------------ | --------------------------------- | :-------------------: |
+| Contrôle continu   | QCM                               |        30 $%$         |
+| Contrôle continu   | Courte présentation orale         |        20 $%$         |
+| Examen final       | Cas pratique                      |        50 $%$         |

@@ -1,14 +1,10 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+# Acknowledgements
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-MSc2 Manager Financier & Digitalisation Bancaire - 
+MSc2 Manager Financier & Digitalisation Bancaire 
 
 # Manager Financier & Digitalisation Bancaire
-
-[syllabus](./analyse-financi%C3%A8re-diagnostic-syllabus.qmd)
 
 ## OBJECTIFS
 

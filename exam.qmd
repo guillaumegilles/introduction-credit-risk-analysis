@@ -1,6 +1,5 @@
----
-title: "Examen"
----
+# Examen
+
 
 ::: {.callout-important}
 ## Vous avez le choix entre deux sujets

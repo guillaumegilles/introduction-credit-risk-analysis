@@ -6,13 +6,27 @@ book:
   title: "Introduction to Credit Risk"
   author: "Guillaume Gilles"
   date: "5/15/2024"
+  favicon: images/cat.png
+  cover-image: cover.webp
+  twitter-card: true
+  site-url: https://example.com
+
+  page-navigation: true
   chapters:
     - index.qmd
     - intro.qmd
+    - part: "La Cotation Banque de France"
+      chapters:
+        - banque-france.qmd
     - references.qmd
+  appendices:
+    - syllabus.qmd
+    - guide-reference.qmd
 
-bibliography: assets/references.bib
+bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: scss/light.scss
+      dark: scss/dark.scss
