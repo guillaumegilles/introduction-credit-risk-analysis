@@ -90,26 +90,6 @@
     ]
   },
   {
-    "objectID": "index.html#preface-1",
-    "href": "index.html#preface-1",
-    "title": "Introduction to Credit Risk",
-    "section": "Preface",
-    "text": "Preface",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Introduction to Credit Risk",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\nMSc2 Manager Financier & Digitalisation Bancaire -",
-    "crumbs": [
-      "Preface"
-    ]
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -121,22 +101,11 @@
     ]
   },
   {
-    "objectID": "syllabus.html#analyse-financière-et-diagnostic",
-    "href": "syllabus.html#analyse-financière-et-diagnostic",
+    "objectID": "syllabus.html#objectifs-pédagogiques-et-professionnels",
+    "href": "syllabus.html#objectifs-pédagogiques-et-professionnels",
     "title": "Syllabus",
     "section": "",
-    "text": "Réaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).\nUtiliser les outils de collecte et d’analyse de l’information financière (Bloomberg…).\nPorter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.\nDécouvrir les différences entre les normes comptables françaises, les normes comptables internationales (IFRS) et les normes anglo-saxonnes (US GAAP).",
-    "crumbs": [
-      "Appendices",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#résumé-du-cours-objectifs-pédagogiques-et-professionnels",
-    "href": "syllabus.html#résumé-du-cours-objectifs-pédagogiques-et-professionnels",
-    "title": "Syllabus",
-    "section": "Résumé du cours : objectifs pédagogiques et professionnels",
-    "text": "Résumé du cours : objectifs pédagogiques et professionnels\n\nUtiliser les outils de collecte et d’analyse de l’information financière. Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.\nRéaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).",
+    "text": "Utiliser les outils de collecte et d’analyse de l’information financière. Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.\nRéaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).\n\n\n\nApprofondir l’analyse financière par l’approche bancaire réseau. Connaitre le patrimoine de l’entreprise (bilan) et son cycle d’exploitation. Faire une lecture « commerciale » de la liasse fiscale et établir un plan de financement prévisionnel.",
     "crumbs": [
       "Appendices",
       "Syllabus"
@@ -170,28 +139,6 @@
     "title": "Syllabus",
     "section": "Bibliographie indicative",
     "text": "Bibliographie indicative\n\nVernimmen\nLa Lettre Vernimmen.net (newsletter mensuelle)",
-    "crumbs": [
-      "Appendices",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#évaluation-du-module",
-    "href": "syllabus.html#évaluation-du-module",
-    "title": "Syllabus",
-    "section": "Évaluation du module",
-    "text": "Évaluation du module\n\nCC - QCM : 30 % de la note finale ;\nExamen final - cas pratique : 70 % de la note finale.",
-    "crumbs": [
-      "Appendices",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#objectifs-pédagogiques-et-professionnels",
-    "href": "syllabus.html#objectifs-pédagogiques-et-professionnels",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Utiliser les outils de collecte et d’analyse de l’information financière. Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.\nRéaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).\n\n\n\nApprofondir l’analyse financière par l’approche bancaire réseau. Connaitre le patrimoine de l’entreprise (bilan) et son cycle d’exploitation. Faire une lecture « commerciale » de la liasse fiscale et établir un plan de financement prévisionnel.",
     "crumbs": [
       "Appendices",
       "Syllabus"
