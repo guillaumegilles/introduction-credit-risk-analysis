@@ -1,3 +1,7 @@
+## To Do
+
+![[TODO]]
+
 ## ChatGPT
 
 A comprehensive lecture about credit risk should cover the following key topics:
@@ -257,6 +261,3 @@ Cette notion de défaut présente également de grandes qualités en regard des 
  indicateur suffisamment prédictif car, souvent, le défaut sur effets de commerce précède le défaut sur prêt bancaire, qui lui-même précède le défaut sur obligation et le défaut « légal » constitué par l’ouverture d’une procédure collective (car ces deux derniers mettent au grand jour les difficultés d’une société),
  indicateur suffisamment « stable » pour être opérationnel, c’est-à-dire n’étant pas associé à un taux trop important ou trop rapide de retour dans des catégories « saines ».
 
-## To Do
-
-![[TODO]]
