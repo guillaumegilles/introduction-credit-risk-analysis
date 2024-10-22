@@ -1,14 +1,24 @@
-# Syllabus {.unnumbered}
-
-[Master of Science Manager Financier. Banque & Assurance](https://www.inseec.com/program/msc-manager-financier-banque-assurance/) :  Analyse Financière & Diagnostic
+---
+title: Syllabus
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+---
 
 ## Objectifs pédagogiques et professionnels
+
+#### [Master of Science - Manager Financier, Banque & Assurance](https://www.inseec.com/program/msc-manager-financier-banque-assurance/)
+
+**Analyse Financière & Diagnostic**
 
 > Utiliser les outils de collecte et d’analyse de l’information financière.
 > Porter un diagnostic sur la profitabilité, la rentabilité, la politique d’investissement et de financement de l’entreprise.  
 > Réaliser une analyse financière d’entreprises en normes françaises (liasse fiscale) ou internationales (IFRS et US GAAP) en fonction du point de vue choisi (investisseur ou créancier).
 
-M2 Banques d’Affaires & Ingénierie Financière : Diagnostic Stratégique et Décision
+#### [Master of Science Banque d’Affaires & Ingénierie Financière](https://www.inseec.com/program/msc-banque-daffaires-ingenierie-financiere/)
+
+**Diagnostic Stratégique et Décision**
 
 > Approfondir l’analyse financière par l’approche bancaire réseau.
 > Connaitre le patrimoine de l’entreprise (bilan) et son cycle d’exploitation.
@@ -16,11 +26,11 @@ M2 Banques d’Affaires & Ingénierie Financière : Diagnostic Stratégique et D
 
 ## Connaissances et compétences RNCP visées
 
-- 2.6 Appliquer les bases juridiques indispensables au bon fonctionnement d’une société et contrôler le respect des procédures (Diagnostic Stratégique et Décision)
-- 4.14 Optimiser la communication financière de l’entreprise en utilisant les leviers comptables et fiscaux à sa disposition (Analyse Financière & Diagnostic) ;
-- 4.15 Utiliser les canaux d’informations financières publics à disposition en maîtrisant le rating et les actualités marché (Analyse Financière & Diagnostic) ;
-- 4.16 Appliquer les normes comptables et financières internationales (USGAP, IFRS) afin d’accompagner l’entreprise dans sa gestion et le déploiement de sa stratégie à l’international.
-- 4.18 Coordonner et animer une équipe dans le cadre d’un projet en (Diagnostic Stratégique et Décision) :
+- **2.6** : Appliquer les bases juridiques indispensables au bon fonctionnement d’une société et contrôler le respect des procédures (Diagnostic Stratégique et Décision)
+- **4.14** : Optimiser la communication financière de l’entreprise en utilisant les leviers comptables et fiscaux à sa disposition (Analyse Financière & Diagnostic) ;
+- **4.15** : Utiliser les canaux d’informations financières publics à disposition en maîtrisant le rating et les actualités marché (Analyse Financière & Diagnostic) ;
+- **4.16** : Appliquer les normes comptables et financières internationales (USGAP, IFRS) afin d’accompagner l’entreprise dans sa gestion et le déploiement de sa stratégie à l’international.
+- **4.18** : Coordonner et animer une équipe dans le cadre d’un projet en (Diagnostic Stratégique et Décision) :
   - Planifiant les échéances
   - Répartissant, hiérarchisant et priorisant les tâches suivant l’évolution du projet
   - Réalisant un reporting
