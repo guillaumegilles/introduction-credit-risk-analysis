@@ -39,7 +39,7 @@ format:
 
 | Date        | Contenu de la séance                                | Type de cours      | Travail préparatoire |
 | :---------: | --------------------------------------------------- | ------------------ | -------------------- |
-| **Jour #1** | 1. Découvrir la Banque de France… <br> - Stratégie Monétaire <br> - Stabilité Financière <br> - Service à l’économie <br> 2. …et sa cotation <br> - Définition et objectifs de la cotation BdF <br> - Liens avec la stabilité financière <br> - Comment est-ell gérer par les banque privées.   | Cours magistral | Par groupes de 3-4 personnes, préparation d’un oral de 5 minutes sur la cotation Banque de France dans les banques privées. |
+| **Jour #1** | 1. Découvrir la Banque de France… <br> - Stratégie Monétaire <br> - Stabilité Financière <br> - Service à l’économie <br> 2. …et sa cotation <br> - Définition et objectifs de la cotation BdF <br> - Liens avec la stabilité financière <br> - Comment est-elle gérer par les banque privées.   | Cours magistral | Par groupes de 3-4 personnes, préparation d’un oral de 5 minutes sur la cotation Banque de France dans les banques privées. |
 | **Jour #2** | QCM sur les éléments de la 1re journée <br> 1. Introduction sur les comptes consolidés <br> - Que sont les comptes consolidés <br> - Normes françaises/ IFRS <br> 2. Analyse critique du bilan et des performances <br> - Compte de résultat <br> - Solvabilité <br> -  Autonomie financière | Cours magistral | Revoir les fondamentaux de la comptabilité |
 | **Jour #3** | QCM sur les éléments de la 2e journée <br> 1. Le tableau des flux de trésorerie <br> 2. Examen final | Cours magistral | Révisions |
 
