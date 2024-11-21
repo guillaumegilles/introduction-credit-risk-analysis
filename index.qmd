@@ -1,13 +1,16 @@
 ---
-title: Introduction to Credit Risk Analysis
+title: Welcome
 ---
 
-## Avant-propos
+This is the website hosting materials **“Introduction to Credit Risk
+Analysis”**. It is a companion for two classes at [INSEEC, Bordeaux](https://www.inseec.com/bordeaux/)
+business school.
 
-Ce livre est destiné aux élèves de MSc2 en **Manager Financier, Banque &
-Assurance** et **Banque d’Affaires & Ingénierie Financière**.
+This book will teach Master of Science graduate student in [Financial, Banking & Insurance Manager](https://www.inseec.com/en/program/msc-banking-digitalization-financial-manager/)
+and [Investment Banking & Financial Engineering](https://www.inseec.com/en/program/msc-investment-banking-financial-engineering/)
+the fundamentals to understand the role of Banque de France in both
+the economy and the financial market.
 
-<!-- [ ] Add more description -->
 
 ## Plan du cours
 
