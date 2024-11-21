@@ -14,6 +14,8 @@ format:
 
 ![Chronologie de la cotation](../assets/cotationchronologie.png)
 
+L’article L144-1 du Code Monétaire et Financier définit strictement les destinataires de la cotation.
+
 ## Cotation ou notation
 
 La cotation a le même objet que la notation d’une agence à savoir évaluer le risque encouru par un prêteur qui avance des fonds. le modèle économique de la cotation est très différent :
