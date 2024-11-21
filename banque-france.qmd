@@ -2,8 +2,8 @@
 title: Banque de France
 ---
 
-![Logo Banque de France](assets/logo_BDF_2019_bleu_RVB.png)
-![Logo Banque de France](assets/image2.png)
+![Logo Banque de France](assets/rue-vrilliere.png)
+
 The Banque de France is an independent institution of the French Republic
 that has guarded the nation’s currency and financial system for over two
 hundred years. It is a key player in France’s economic and financial
@@ -14,7 +14,7 @@ Today, as a member of the Eurosystem, the Banque de France provides a
 public service to French and European citizens by ensuring the smooth
 financing of the economy and the stability of prices.
 
-More than two centuries of history...
+## More than two centuries of history...
 
 - **1800**: creation by Napoléon Bonaparte
 - **1803**: exclusive right to issue banknotes
