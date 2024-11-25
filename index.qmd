@@ -1,6 +1,15 @@
 ---
-title: Welcome
+title: "introduction to Credit Risk Analysis"
+author: ["Guillaume Gilles"]
+description:
+url: 'https://guillaumegilles.github.io/teaching/intro-credit-risk-analysis/'
+github-repo: guillaumegilles/introduction-credit-risk-analysis
+cover-image: cover.png
 ---
+
+# Welcome
+
+<a href="https://www.amazon.com/Hands-Programming-Write-Functions-Simulations/dp/1449359019"><img src="cover.png" width="285" height="375" alt="Cover image" align="right" style="margin: 0 1em 0 1em" /></a>
 
 This is the website hosting materials **“Introduction to Credit Risk
 Analysis”**. It is a companion for two classes at [INSEEC, Bordeaux](https://www.inseec.com/bordeaux/)
